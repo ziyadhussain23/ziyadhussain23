@@ -1,10 +1,10 @@
 # Hi there, I'm MD Ziyad Hussain! 👋
 
 [![Gmail](https://img.shields.io/badge/-ziyadhussain23@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ziyadhussain23@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ziyadhussain23)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ziyadhussain23)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ziyad-hussain)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MD_Ziyad_Hussain)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/ziyadhussain23)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com/users/ziyadhussain23)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/ziyad_hussain)
 
 > **Computer Science Student at IIITG '27** | **📍 Guwahati, India** | **📱 +91-7542049250**
 
@@ -170,10 +170,10 @@ I'm interested in collaborating on:
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1500+-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ziyadhussain23)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1700+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ziyadhussain23)
-[![CodeChef](https://img.shields.io/badge/CodeChef-1400+-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/ziyadhussain23)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Star-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/ziyadhussain23)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1500+-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MD_Ziyad_Hussain)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1700+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Md_Ziyad_Hussain/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-1400+-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ziyad_hussain)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Star-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ziyadhussain23)
 
 </div>
 
