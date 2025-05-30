@@ -1,30 +1,110 @@
-# Hi there, I'm Ziyad Hussain! 👋
+# Hi there, I'm MD Ziyad Hussain! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a focus on full-stack development, AI/ML projects, and database management systems.
+[![Gmail](https://img.shields.io/badge/-ziyadhussain23@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ziyadhussain23@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ziyadhussain23)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ziyadhussain23)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/ziyadhussain23)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com/users/ziyadhussain23)
 
-## 🚀 About Me
+> **Computer Science Student at IIITG '27** | **📍 Guwahati, India** | **📱 +91-7542049250**
 
-- 🔭 Currently working on diverse projects ranging from AI applications to web development
-- 🌱 Continuously learning and exploring new technologies
-- 💼 Experienced in Java, Python, JavaScript, HTML, CSS, and Spring Boot
-- 🎯 Passionate about creating practical solutions for real-world problems
+Dedicated computer science student at IIIT Guwahati with expertise in Java, Spring Boot, and React. Skilled in building secure web applications and solving complex coding problems. Achieved 1500+ rating on Codeforces and 1700+ rating on LeetCode. Seeking internship or part-time opportunities to apply and enhance my software development and AI skills.
 
-## 🛠️ Technologies & Tools
+## 🎓 Education
 
+**Bachelor of Technology (Computer Science and Engineering)**  
+*Indian Institute of Information Technology, Guwahati (IIITG)* | **Aug 2023 - Present**  
+**CGPA:** 7.02
+
+**XII th, CBSE** | Cambridge School Silao(Nepura), Nalanda, Bihar | **89%** | *Apr 2022 - Mar 2023*
+
+**X th, CBSE** | DAV Public School PGC, Bihar Sharif, Nalanda, Bihar | **89%** | *Apr 2020 - Mar 2021*
+
+## 🛠️ Technical Skills
+
+### Programming Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### Core Competencies
+- **Data Structures & Algorithms**
+- **RESTful API Design**
+- **Database Design & Normalization (BCNF, 3NF)**
+- **Reinforcement Learning & Game AI**
+
+## 🏆 Competitive Programming Achievements
+
+- 🥇 **1500+ Rating** on Codeforces
+- 🥇 **1700+ Rating** on LeetCode
+- 🥇 **1400+ Rating** on CodeChef
+- 📚 **800+ Problems Solved** on LeetCode
+- ⭐ **5-Star Rating** in Java, C, C++ on HackerRank
+- 🎯 **Rank 15,864** in JEE Advanced (2023)
+- 📊 **98.11 Percentile** in JEE Mains (2023)
 
 ## 📂 Featured Projects
 
 ### 🔐 [Secure Note-Taking Application](https://github.com/ziyadhussain23/Secure-Note-Taking-Application)
-A full-stack application for secure note management with authentication and encryption features.
-- **Technologies:** Java (47%), JavaScript (42.5%), CSS (9.1%), HTML (1.4%)
-- **Features:** User authentication, encrypted storage, responsive design
-- **Status:** Public repository
+*November 2024 - December 2024*
+
+A comprehensive secure web application for note management with robust authentication and data security.
+
+**Tech Stack:** Spring Boot, Spring Security, Spring JPA/Hibernate, Java, React, MySQL, JWT, BCrypt
+
+**Key Features:**
+- JWT-based authentication system
+- Folder-based note organization
+- RESTful API architecture
+- Input validation and error handling
+- Encrypted data storage
+
+**Tools:** Git, Postman
+
+### 🚀 [Cross-Entropy Method on Lunar Lander](https://github.com/ziyadhussain23/AI_Project)
+*February 2025*
+
+Implemented a reinforcement learning agent using the Cross-Entropy Method to solve the Lunar Lander environment.
+
+**Tech Stack:** Python, NumPy, Gymnasium, Multiprocessing
+
+**Key Features:**
+- Neural network policy training
+- Parallel evaluation for efficiency
+- Reward maximization algorithms
+
+**Outcome:** Achieved stable landing performance with average reward of 280+ over 100 episodes
+
+### ♟️ Alpha-Beta Pruning for Chess AI
+*March 2025*
+
+Developed an intelligent chess AI using alpha-beta pruning to optimize minimax search for strategic move selection.
+
+**Tech Stack:** Python, Pygame, python-chess
+
+**Key Features:**
+- Material-based board evaluation
+- Depth-limited search algorithms
+- Interactive GUI for human vs. AI gameplay
+
+**Outcome:** AI capable of competitive play at depth 5 with efficient move generation
 
 ### 🗂️ [Smart Waste Management System](https://github.com/ziyadhussain23/Smart_Waste_Manangement_System)
 An intelligent waste management solution designed to optimize waste collection and disposal processes.
@@ -37,70 +117,74 @@ A database management system built with Spring Boot for pet-related data handlin
 - **Technologies:** HTML (68%), Java (32%)
 - **Framework:** Spring Boot
 - **Description:** DMBS project demonstrating full-stack development skills
-- **Status:** Public repository
 
-### 🤖 [AI Project](https://github.com/ziyadhussain23/AI_Project)
-Artificial Intelligence project showcasing machine learning capabilities and implementations.
-- **Technologies:** Python (100%)
-- **Focus:** AI/ML algorithms and applications
-- **Development Period:** March 2025
+## 📜 Certifications
 
-### 🛒 [E-Commerce Application](https://github.com/ziyadhussain23/ecom)
-E-commerce platform built with Java, focusing on backend functionality and business logic.
-- **Technologies:** Java (100%)
-- **Type:** Backend-focused e-commerce solution
-- **Development:** February 2025
+- 🏅 **Java (Basic) Certificate** - HackerRank (February 2025)
+- 🏅 **Problem Solving (Basic) Certificate** - HackerRank (February 2025)
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![Ziyad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziyadhussain23&show_icons=true&theme=radical)
+<div align="center">
+
+![Ziyad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziyadhussain23&show_icons=true&theme=radical&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyadhussain23&layout=compact&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ziyadhussain23&theme=radical)
+
+</div>
+
 ## 🔄 Development Journey
 
-### Recent Projects (2025)
-- **Smart Waste Management System** - Environmental technology solution
-- **AI Project** - Machine learning and artificial intelligence
-- **IdeaProjects** - Java development workspace
+### 2025 Projects
+- **AI/ML Projects** - Reinforcement learning and game AI
+- **Smart Waste Management** - Environmental technology solution
+- **Chess AI** - Strategic game development
 - **E-commerce Platform** - Backend development
 
-### Foundation Projects (2024-2025)
+### 2024 Foundation
 - **Secure Note-Taking Application** - Full-stack security implementation
 - **PetProject** - Database management with Spring Boot
-- **SecondProject** - Java development practice
+- **Competitive Programming** - Achieved significant ratings across platforms
 
-## 🤝 Collaboration & Open Source
+## 🎯 Current Goals
 
-I'm open to collaborating on:
-- 🌱 Environmental technology projects
-- 🤖 AI/ML applications
-- 🔐 Security-focused applications
-- 📱 Full-stack web development
-- 🗄️ Database management systems
+- 🔍 Seeking **internship/part-time opportunities** in software development
+- 🌱 Expanding knowledge in **AI/ML** and **cloud technologies**
+- 🏗️ Building scalable applications with **microservices architecture**
+- 🤝 Contributing to **open-source projects**
+- 📈 Improving competitive programming ratings
 
-## 📈 Programming Language Distribution
+## 🤝 Open for Collaboration
 
-Based on my repositories:
-- **Java**: Primary language for backend development and desktop applications
-- **Python**: AI/ML projects and data science
-- **JavaScript**: Frontend interactivity and web applications
-- **HTML/CSS**: Web development and user interfaces
+I'm interested in collaborating on:
+- 🤖 **AI/ML Applications** & Research
+- 🔐 **Security-focused Applications**
+- 🌍 **Environmental Technology Projects**
+- 📱 **Full-stack Web Development**
+- 🏆 **Competitive Programming**
+- ☁️ **Cloud & DevOps Projects**
 
-## 📫 How to Reach Me
+## 💻 Coding Profiles
 
-- GitHub: [@ziyadhussain23](https://github.com/ziyadhussain23)
-- Profile Views: ![](https://komarev.com/ghpvc/?username=ziyadhussain23&color=brightgreen)
+<div align="center">
 
-## 🎯 Current Focus
+[![Codeforces](https://img.shields.io/badge/Codeforces-1500+-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ziyadhussain23)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1700+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ziyadhussain23)
+[![CodeChef](https://img.shields.io/badge/CodeChef-1400+-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/ziyadhussain23)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Star-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/ziyadhussain23)
 
-- Expanding AI/ML knowledge and applications
-- Building scalable web applications with Spring Boot
-- Implementing security best practices in software development
-- Contributing to open-source environmental technology projects
+</div>
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ziyadhussain23&color=brightgreen&style=flat-square)
+
+*"The best way to predict the future is to create it."* - Peter Drucker
 
 ⭐️ From [ziyadhussain23](https://github.com/ziyadhussain23)
+
+</div>
