@@ -14,7 +14,7 @@ Dedicated computer science student at IIIT Guwahati with expertise in Java, Spri
 
 **Bachelor of Technology (Computer Science and Engineering)**  
 *Indian Institute of Information Technology, Guwahati (IIITG)* | **Aug 2023 - Present**  
-**CGPA:** 7.02
+**CGPA:** 7.21
 
 **XII th, CBSE** | Cambridge School Silao(Nepura), Nalanda, Bihar | **89%** | *Apr 2022 - Mar 2023*
 
