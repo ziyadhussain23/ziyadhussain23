@@ -162,7 +162,7 @@ Distinguished as a **National Finalist (Top 48 out of 1.8 Lakh+)** at Flipkart G
 
 ---
 
-### 🛒 [ShopSphere - Full-Stack E-Commerce Platform](https://github.com/ziyadhussain23/SecondProject)
+### 🛒 [ShopSphere - Full-Stack E-Commerce Platform](https://github.com/ziyadhussain23/ShopSphere)
 *December 2024 - March 2025*
 
 A comprehensive, production-ready e-commerce platform featuring complete product lifecycle management, shopping cart functionality, secure authentication, and role-based access control. Built with enterprise-level security and scalability in mind.
