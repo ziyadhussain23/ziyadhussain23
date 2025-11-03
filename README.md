@@ -8,7 +8,7 @@
 
 > Flipkart GRiD 7.0 National Finalist | Computer Science Student at IIITG '27 | 📍 Guwahati, India | 📱 +91-7542049250
 
-Dedicated CSE student at IIIT Guwahati focused on AI/ML and full-stack development. I build secure, scalable enterprise applications and intelligent systems. Recently, my team and I were National Finalists (Top 12 Teams) at Flipkart GRiD 7.0, where we developed an AI-powered semantic search engine that impressed industry leaders.
+Dedicated CSE student at IIIT Guwahati focused on AI/ML and full-stack development. I build secure, scalable enterprise applications and intelligent systems. Recently, I was National Finalists (Top 48 out of 1.8 Lakh+) at Flipkart GRiD 7.0, where we developed an AI-powered semantic search engine that impressed industry leaders.
 
 ## 🎓 Education
 
@@ -118,7 +118,7 @@ An enterprise-grade, production-ready real-time collaborative interview platform
 ### 🔍 [IntelliSearch - AI-Powered Product Discovery Engine (Flipkart GRiD 7.0 Finalist)](https://github.com/Darkcaptain007/Grid-Flipkart)
 *August 2025*
 
-Distinguished as a **National Finalist (Top 12 Teams)** at Flipkart GRiD 7.0 for architecting an enterprise-grade AI-powered e-commerce search engine that moves beyond keyword matching to truly understand user intent. Competed against 1,000+ teams nationwide and presented to Flipkart's leadership team.
+Distinguished as a **National Finalist (Top 48 out of 1.8 Lakh+)** at Flipkart GRiD 7.0 for architecting an enterprise-grade AI-powered e-commerce search engine that moves beyond keyword matching to truly understand user intent. Competed against 1.8 Lakh+ nationwide and presented to Flipkart's leadership team.
 
 **Tech Stack:** Python (FastAPI), Node.js (Express), React (Material-UI), Elasticsearch 8.14, Redis 6.x, MongoDB 5.x, ChromaDB, Docker, NumPy, Sentence Transformers
 
