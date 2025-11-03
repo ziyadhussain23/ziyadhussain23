@@ -259,27 +259,23 @@ A comprehensive secure web application for note management with robust authentic
 
 ---
 
-### 🚀 [Cross-Entropy Method on Lunar Lander](https://github.com/ziyadhussain23/Cross-Entropy-Method-Lunar-Lander)
-*February 2025*
+### 🗂️ [Smart Waste Management System](https://github.com/ziyadhussain23/Smart_Waste_Manangement_System)
+*April 2025*
 
-Implemented a reinforcement learning agent using the Cross-Entropy Method (CEM) to master the Lunar Lander environment from OpenAI Gymnasium.
+An intelligent waste management solution designed to optimize waste collection, disposal processes, and promote environmental sustainability.
 
-**Tech Stack:** Python, NumPy, Gymnasium, Multiprocessing
+**Technologies:** Java (60.7%), HTML (39.3%), Spring Framework
 
 **Key Features:**
-- Neural network policy with 2 hidden layers (128 neurons each)
-- Parallel evaluation using multiprocessing for 4x speedup
-- Elite sample selection for policy improvement
-- Reward shaping and normalization techniques
-- Visualization of training progress and landing trajectories
+- IoT sensor integration for real-time bin monitoring
+- Route optimization algorithm for collection vehicles
+- Admin dashboard for waste management operations
+- User portal for reporting and tracking
+- Analytics and reporting for waste reduction insights
 
-**Algorithm Details:**
-- Population size: 50 policies per iteration
-- Elite ratio: Top 20% performers
-- Training iterations: 100 generations
-- Exploration noise: Gaussian perturbation
+**Purpose:** Environmental sustainability through smart technology and data-driven decision making
 
-**Outcome:** Achieved stable landing performance with average reward of 280+ over 100 episodes, demonstrating successful autonomous control
+**Collaboration:** Forked by [Hemantshankhwar](https://github.com/Hemantshankhwar)
 
 ---
 
@@ -306,24 +302,27 @@ Developed an intelligent chess AI using alpha-beta pruning optimization to enabl
 **Outcome:** AI capable of competitive play with strategic understanding of piece positioning and tactical awareness
 
 ---
+### 🚀 [Cross-Entropy Method on Lunar Lander](https://github.com/ziyadhussain23/Cross-Entropy-Method-Lunar-Lander)
+*February 2025*
 
-### 🗂️ [Smart Waste Management System](https://github.com/ziyadhussain23/Smart_Waste_Manangement_System)
-*April 2025*
+Implemented a reinforcement learning agent using the Cross-Entropy Method (CEM) to master the Lunar Lander environment from OpenAI Gymnasium.
 
-An intelligent waste management solution designed to optimize waste collection, disposal processes, and promote environmental sustainability.
-
-**Technologies:** Java (60.7%), HTML (39.3%), Spring Framework
+**Tech Stack:** Python, NumPy, Gymnasium, Multiprocessing
 
 **Key Features:**
-- IoT sensor integration for real-time bin monitoring
-- Route optimization algorithm for collection vehicles
-- Admin dashboard for waste management operations
-- User portal for reporting and tracking
-- Analytics and reporting for waste reduction insights
+- Neural network policy with 2 hidden layers (128 neurons each)
+- Parallel evaluation using multiprocessing for 4x speedup
+- Elite sample selection for policy improvement
+- Reward shaping and normalization techniques
+- Visualization of training progress and landing trajectories
 
-**Purpose:** Environmental sustainability through smart technology and data-driven decision making
+**Algorithm Details:**
+- Population size: 50 policies per iteration
+- Elite ratio: Top 20% performers
+- Training iterations: 100 generations
+- Exploration noise: Gaussian perturbation
 
-**Collaboration:** Forked by [Hemantshankhwar](https://github.com/Hemantshankhwar)
+**Outcome:** Achieved stable landing performance with average reward of 280+ over 100 episodes, demonstrating successful autonomous control
 
 ---
 
@@ -440,7 +439,7 @@ I'm interested in collaborating on:
 
 *"The best way to predict the future is to create it."* - Peter Drucker
 
-**Available for Software Development roles starting May 2025**
+**Available for Software Development roles starting May 2026**
 
 ⭐️ From [ziyadhussain23](https://github.com/ziyadhussain23)
 
