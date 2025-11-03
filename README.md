@@ -77,7 +77,7 @@ Dedicated CSE student at IIIT Guwahati focused on AI/ML and full-stack developme
 ## 📂 Featured Projects
 
 ### 🎥 [FuseHire - Real-Time Interview Platform](https://github.com/ziyadhussain23/ZiyadWebRTC)
-*January 2025 - March 2025*
+*October 2025 - November 2025*
 
 An enterprise-grade real-time collaborative interview platform with WebRTC video conferencing and live code collaboration capabilities.
 
@@ -226,7 +226,7 @@ Developed an intelligent chess AI using alpha-beta pruning optimization to enabl
 ---
 
 ### 🗂️ [Smart Waste Management System](https://github.com/ziyadhussain23/Smart_Waste_Manangement_System)
-*2024*
+*April 2025*
 
 An intelligent waste management solution designed to optimize waste collection, disposal processes, and promote environmental sustainability.
 
@@ -246,7 +246,7 @@ An intelligent waste management solution designed to optimize waste collection, 
 ---
 
 ### 🐾 [PetProject - Database Management System](https://github.com/ziyadhussain23/PetProject)
-*2024*
+*November 2024 - December 2024*
 
 A comprehensive DBMS built with Spring Boot for pet-related data handling, demonstrating full-stack development capabilities and database design principles.
 
