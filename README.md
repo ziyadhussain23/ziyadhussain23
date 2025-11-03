@@ -8,7 +8,7 @@
 
 > Flipkart GRiD 7.0 National Finalist | Computer Science Student at IIITG '27 | 📍 Guwahati, India | 📱 +91-7542049250
 
-Dedicated CSE student at IIIT Guwahati focused on AI/ML and full-stack development. I build secure, scalable enterprise applications and intelligent systems. Recently, I was National Finalists (Top 48 out of 1.8 Lakh+) at Flipkart GRiD 7.0, where we developed an AI-powered semantic search engine that impressed industry leaders.
+Dedicated CSE student at IIIT Guwahati focused on AI/ML and full-stack development. I build secure, scalable enterprise applications and intelligent systems. Recently, I was National Finalists (Top 48 out of 1.8 Lakh+) at Flipkart GRiD 7.0, where I developed an AI-powered semantic search engine that impressed industry leaders.
 
 ## 🎓 Education
 
