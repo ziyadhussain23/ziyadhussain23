@@ -115,7 +115,7 @@ An enterprise-grade, production-ready real-time collaborative interview platform
 
 ---
 
-### 🔍 [IntelliSearch - AI-Powered Semantic Search Engine [Flipkart GRiD 7.0 Finalist]}} \hfill \href{https://github.com/ziyadhussain23/Flipk (Flipkart GRiD 7.0 Finalist)](https://github.com/Darkcaptain007/Grid-Flipkart)
+### 🔍 [IntelliSearch - AI-Powered Semantic Search Engine (Flipkart GRiD 7.0 Finalist)](https://github.com/ziyadhussain23/Flipkart-Grid-7.0)
 *August 2025*
 
 Distinguished as a **National Finalist (Top 48 out of 1.8 Lakh+)** at Flipkart GRiD 7.0 for architecting an enterprise-grade AI-powered e-commerce search engine that moves beyond keyword matching to truly understand user intent. Competed against 1.8 Lakh+ nationwide and presented to Flipkart's leadership team.
