@@ -8,7 +8,7 @@
 
 > Flipkart GRiD 7.0 National Finalist | Computer Science Student at IIITG '27 | 📍 Guwahati, India | 📱 +91-7542049250
 
-Dedicated CSE student at IIIT Guwahati focused on AI/ML and full-stack development. I build secure, scalable enterprise applications and intelligent systems. Recently, I was National Finalists (Top 48 out of 1.8 Lakh+) at Flipkart GRiD 7.0, where I developed an AI-powered semantic search engine that impressed industry leaders.
+Dedicated CSE student at IIIT Guwahati focused on AI/ML and full-stack development. I build secure, scalable enterprise applications and intelligent systems. Recently, I was National Finalists (Top 48 teams out of 1.8 Lakh+ participants) at Flipkart GRiD 7.0 for developing an AI-powered search engine.
 
 ## 🎓 Education
 
@@ -79,17 +79,17 @@ Dedicated CSE student at IIIT Guwahati focused on AI/ML and full-stack developme
 ### 🎥 [FuseHire - Enterprise Interview Platform](https://github.com/ziyadhussain23/ZiyadWebRTC)
 *October 2025 - November 2025*
 
-An enterprise-grade, production-ready real-time collaborative interview platform that revolutionizes technical interviews by combining WebRTC video conferencing with live code collaboration. Built to handle hundreds of concurrent interview sessions with optimized network performance and robust security.
+An enterprise-grade, production-ready real-time collaborative interview platform that revolutionizes technical interviews by combining WebRTC video conferencing with live code collaboration. Built with modern Spring Boot backend and React TypeScript frontend.
 
 **Tech Stack:** Spring Boot 3.5.7, React 18.3, TypeScript 5.8, WebRTC, WebSocket/STOMP, MySQL 8.0, Caffeine Cache, JWT, Maven
 
 **Core Features:**
-- **WebRTC Video Conferencing:** Peer-to-peer HD video/audio communication with automatic ICE candidate exchange, STUN/TURN server support, and adaptive bitrate streaming for optimal quality across varying network conditions
+- **WebRTC Video Conferencing:** Peer-to-peer HD video/audio communication with automatic ICE candidate exchange, STUN/TURN server support, and adaptive bitrate streaming for optimal quality across various network conditions
 - **Live Code Editor:** Monaco Editor integration with syntax highlighting for 20+ languages (Java, Python, JavaScript, C++, Go, Rust), IntelliSense autocomplete, error detection, and customizable themes
 - **Optimized Code Synchronization:** Implements diff-patch algorithm using Java Diff Utils library, reducing network bandwidth by 80% by transmitting only code changes instead of full content
 - **Room-Based Architecture:** Hierarchical access control with three-tier permission system (Owner, Interviewer, Candidate) with granular capabilities per role
 - **Question Management System:** Dynamic interview question bank with difficulty levels (Easy, Medium, Hard, Expert), category tagging, and real-time visibility controls for progressive disclosure
-- **Security & Authentication:** JWT-based stateless authentication with access/refresh token mechanism, BCrypt password hashing (12 rounds), email verification system with time-limited tokens, and HttpOnly cookie implementation
+- **Security & Authentication:** JWT-based stateless authentication with access/refresh token mechanism, BCrypt password hashing (12 rounds), email verification system with time-limited tokens, and HttpOnly cookies
 
 **Advanced Features:**
 - **Real-Time Presence Tracking:** WebSocket-based participant status monitoring with automatic cleanup of inactive sessions
@@ -111,14 +111,14 @@ An enterprise-grade, production-ready real-time collaborative interview platform
 - Sub-100ms API response time with caching layer
 - 99.9% uptime with comprehensive error handling and circuit breakers
 
-**Impact:** Enables seamless remote technical interviews with professional-grade features, reducing interview setup time by 90% and improving candidate experience through intuitive interface and reliable performance
+**Impact:** Enables seamless remote technical interviews with professional-grade features, reducing interview setup time by 90% and improving candidate experience through intuitive interface and reliable performance.
 
 ---
 
 ### 🔍 [IntelliSearch - AI-Powered Semantic Search Engine (Flipkart GRiD 7.0 Finalist)](https://github.com/ziyadhussain23/Flipkart-Grid-7.0)
 *August 2025*
 
-Distinguished as a **National Finalist (Top 48 out of 1.8 Lakh+)** at Flipkart GRiD 7.0 for architecting an enterprise-grade AI-powered e-commerce search engine that moves beyond keyword matching to truly understand user intent. Competed against 1.8 Lakh+ nationwide and presented to Flipkart's leadership team.
+Distinguished as a **National Finalist (Top 48 out of 1.8 Lakh+)** at Flipkart GRiD 7.0 for architecting an enterprise-grade AI-powered e-commerce search engine that moves beyond keyword matching to truly understand user intent and product semantics.
 
 **Tech Stack:** Python (FastAPI), Node.js (Express), React (Material-UI), Elasticsearch 8.14, Redis 6.x, MongoDB 5.x, ChromaDB, Docker, NumPy, Sentence Transformers
 
@@ -158,14 +158,14 @@ Distinguished as a **National Finalist (Top 48 out of 1.8 Lakh+)** at Flipkart G
 - Incremental reranking to balance accuracy and performance
 - Personalization without user login through session-based tracking
 
-**Impact:** Revolutionized e-commerce search experience by understanding user intent rather than just matching keywords, leading to improved user engagement, higher conversion rates, and reduced search abandonment
+**Impact:** Revolutionized e-commerce search experience by understanding user intent rather than just matching keywords, leading to improved user engagement, higher conversion rates, and reduced search abandonment.
 
 ---
 
 ### 🛒 [ShopSphere - Full-Stack E-Commerce Platform](https://github.com/ziyadhussain23/ShopSphere)
 *December 2024 - March 2025*
 
-A comprehensive, production-ready e-commerce platform featuring complete product lifecycle management, shopping cart functionality, secure authentication, and role-based access control. Built with enterprise-level security and scalability in mind.
+A comprehensive, production-ready e-commerce platform featuring complete product lifecycle management, shopping cart functionality, secure authentication, and role-based access control. Built with enterprise-grade Spring Boot architecture and RESTful API design.
 
 **Tech Stack:** Spring Boot 3, Spring Security 6, Spring Data JPA, Hibernate 6, MySQL 8.0, JWT (JJWT 0.12), BCrypt, Maven, Lombok, ModelMapper
 
@@ -227,7 +227,7 @@ A comprehensive, production-ready e-commerce platform featuring complete product
 - **API Documentation Ready:** Structure supports easy integration with Swagger/OpenAPI documentation
 - **Docker-Ready:** Containerization support for easy deployment and scaling
 
-**Impact:** Provides a robust foundation for e-commerce operations with enterprise-grade security, scalability to handle thousands of products, and a clean architecture enabling easy feature additions and maintenance
+**Impact:** Provides a robust foundation for e-commerce operations with enterprise-grade security, scalability to handle thousands of products, and a clean architecture enabling easy feature additions and maintenance.
 
 ---
 
@@ -302,6 +302,7 @@ Developed an intelligent chess AI using alpha-beta pruning optimization to enabl
 **Outcome:** AI capable of competitive play with strategic understanding of piece positioning and tactical awareness
 
 ---
+
 ### 🚀 [Cross-Entropy Method on Lunar Lander](https://github.com/ziyadhussain23/Cross-Entropy-Method-Lunar-Lander)
 *February 2025*
 
@@ -362,11 +363,11 @@ A comprehensive DBMS built with Spring Boot for pet-related data handling, demon
 
 <div align="center">
 
-![Ziyad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziyadhussain23&show_icons=true&theme=radical&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ziyadhussain23&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" alt="Ziyad's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyadhussain23&layout=compact&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ziyadhussain23&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ziyadhussain23&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyadhussain23&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=repo-name&cache_seconds=1800" alt="Top Languages" />
 
 </div>
 
