@@ -76,7 +76,7 @@ Dedicated CSE student at IIIT Guwahati focused on AI/ML and full-stack developme
 
 ## 📂 Featured Projects
 
-### 🎥 [FuseMeet - Enterprise Video Collaboration Platform](https://github.com/ziyadhussain23/ZiyadWebRTC)
+### 🎥 [FuseMeet - Enterprise Video Collaboration Platform](https://fusemeet.live)
 *October 2025 - Present*
 
 A production-grade, cloud-native video collaboration platform deployed on AWS, designed for technical interviews, online classrooms, and virtual meetings. It combines WebRTC video conferencing with real-time tools like code collaboration and digital whiteboards.
@@ -350,11 +350,17 @@ A comprehensive DBMS built with Spring Boot for pet-related data handling, demon
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ziyadhussain23&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" alt="Ziyad's[...]
+<a href="https://github.com/ziyadhussain23">
+  <img src="https://github-readme-stats.vercel.app/api?username=ziyadhussain23&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" alt="Ziyad's GitHub Stats" />
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ziyadhussain23&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<a href="https://github.com/ziyadhussain23">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziyadhussain23&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyadhussain23&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=repo-name&cache_seconds=1800" alt="Top [...]
+<a href="https://github.com/ziyadhussain23">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyadhussain23&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+</a>
 
 </div>
 
