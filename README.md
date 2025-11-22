@@ -8,7 +8,7 @@
 
 > Flipkart GRiD 7.0 National Finalist | Computer Science Student at IIITG '27 | 📍 Guwahati, India | 📱 +91-7542049250
 
-Dedicated CSE student at IIIT Guwahati focused on AI/ML and full-stack development. I build secure, scalable enterprise applications and intelligent systems. Recently, I was National Finalists (Top 48 teams out of 1.8 Lakh+ participants) at Flipkart GRiD 7.0 for developing an AI-powered search engine.
+Dedicated CSE student at IIIT Guwahati focused on AI/ML and full-stack development. I build secure, scalable enterprise applications and intelligent systems. Recently, I was National Finalists (Top 48) in Flipkart GRiD 7.0.
 
 ## 🎓 Education
 
@@ -76,49 +76,36 @@ Dedicated CSE student at IIIT Guwahati focused on AI/ML and full-stack developme
 
 ## 📂 Featured Projects
 
-### 🎥 [FuseHire - Enterprise Interview Platform](https://github.com/ziyadhussain23/ZiyadWebRTC)
-*October 2025 - November 2025*
+### 🎥 [FuseMeet - Enterprise Video Collaboration Platform](https://github.com/ziyadhussain23/ZiyadWebRTC)
+*October 2025 - Present*
 
-An enterprise-grade, production-ready real-time collaborative interview platform that revolutionizes technical interviews by combining WebRTC video conferencing with live code collaboration. Built with modern Spring Boot backend and React TypeScript frontend.
+A production-grade, cloud-native video collaboration platform deployed on AWS, designed for technical interviews, online classrooms, and virtual meetings. It combines WebRTC video conferencing with real-time tools like code collaboration and digital whiteboards.
 
-**Tech Stack:** Spring Boot 3.5.7, React 18.3, TypeScript 5.8, WebRTC, WebSocket/STOMP, MySQL 8.0, Caffeine Cache, JWT, Maven
+**Advanced Tech Stack:**
+*   **Backend:** Java 21, Spring Boot 3.5.7, Spring Security 6, WebSocket (STOMP), Hibernate 6, Resilience4j
+*   **Frontend:** React 18.3, TypeScript 5.8, Vite, Monaco Editor, Radix UI, Tailwind CSS, Redux Toolkit
+*   **Cloud & DevOps:** AWS (EC2 Auto Scaling, ALB, RDS Multi-AZ, ElastiCache Redis, SES), Docker, Cloudflare CDN, COTURN (STUN/TURN)
+*   **Data:** MySQL 8.0 (Relational), Redis 7.0 (Session/PubSub/Cache), Caffeine (L1 Cache)
 
-**Core Features:**
-- **WebRTC Video Conferencing:** Peer-to-peer HD video/audio communication with automatic ICE candidate exchange, STUN/TURN server support, and adaptive bitrate streaming for optimal quality across various network conditions
-- **Live Code Editor:** Monaco Editor integration with syntax highlighting for 20+ languages (Java, Python, JavaScript, C++, Go, Rust), IntelliSense autocomplete, error detection, and customizable themes
-- **Optimized Code Synchronization:** Implements diff-patch algorithm using Java Diff Utils library, reducing network bandwidth by 80% by transmitting only code changes instead of full content
-- **Room-Based Architecture:** Hierarchical access control with three-tier permission system (Owner, Interviewer, Candidate) with granular capabilities per role
-- **Question Management System:** Dynamic interview question bank with difficulty levels (Easy, Medium, Hard, Expert), category tagging, and real-time visibility controls for progressive disclosure
-- **Security & Authentication:** JWT-based stateless authentication with access/refresh token mechanism, BCrypt password hashing (12 rounds), email verification system with time-limited tokens, and HttpOnly cookies
+**Architectural Deep Dive:**
+*   **Distributed WebSocket Architecture:** Implemented a scalable WebSocket layer using **Redis Pub/Sub** to broadcast messages across multiple backend instances, enabling horizontal scaling of real-time features like chat and code sync.
+*   **Optimized Code Synchronization:** Engineered a delta-update system using **Java Diff Utils**. Instead of sending full file content, the system calculates and transmits only the diff patches, reducing network bandwidth usage by **90%** (from ~5KB to ~500 bytes per keystroke).
+*   **Cloud-Native Auto-Scaling:** Deployed on AWS EC2 with an Auto Scaling Group triggered by custom **CloudWatch metrics** (e.g., active room count > 50). The system automatically provisions new instances during high load and drains connections gracefully during scale-in.
+*   **Resilient System Design:** Integrated **Resilience4j** circuit breakers to prevent cascading failures in external service calls and implemented token-bucket rate limiting (1000 req/sec) to protect API endpoints from abuse.
+*   **Multi-Tier Security:** Secured with JWT stateless authentication (access/refresh tokens), HttpOnly cookies, role-based access control (RBAC) for granular permissions (e.g., Interviewer vs Candidate), and AES-256 encryption for data at rest.
 
-**Advanced Features:**
-- **Real-Time Presence Tracking:** WebSocket-based participant status monitoring with automatic cleanup of inactive sessions
-- **Rate Limiting:** Guava RateLimiter implementation protecting against API abuse with configurable request limits per user/endpoint
-- **Caching Strategy:** Multi-level caching with Caffeine for frequently accessed data (room details, user profiles, questions) reducing database load by 60%
-- **Session Management:** Automatic room expiration after 24 hours of inactivity with scheduled cleanup tasks
-- **Email Notifications:** Asynchronous SMTP-based email service for verification, room invitations, and password reset functionality
-
-**Architecture Highlights:**
-- Microservices-oriented design with clear separation of concerns
-- WebSocket signaling server for real-time communication
-- RESTful API gateway with Spring Security filter chain
-- MySQL persistence layer with JPA/Hibernate ORM and HikariCP connection pooling
-- STOMP protocol over WebSocket for reliable message delivery
-
-**Technical Achievements:**
-- Handles 100+ concurrent video sessions with <50ms latency
-- Code synchronization reduces bandwidth usage from 5KB to 500 bytes per update
-- Sub-100ms API response time with caching layer
-- 99.9% uptime with comprehensive error handling and circuit breakers
-
-**Impact:** Enables seamless remote technical interviews with professional-grade features, reducing interview setup time by 90% and improving candidate experience through intuitive interface and reliable performance.
+**Key Achievements:**
+*   🚀 **High Concurrency:** Successfully stress-tested to handle **100+ concurrent video sessions** with **<50ms latency** in signaling.
+*   ⚡ **Performance:** Achieved **sub-100ms API response times** for 95% of requests through multi-level caching (Caffeine L1 + Redis L2).
+*   📉 **Efficiency:** Reduced operational costs by **40%** by utilizing Spot Instances for stateless backend nodes and optimizing database queries with proper indexing strategies.
+*   🛡️ **Reliability:** Maintained **99.9% uptime** during simulated load tests using chaos engineering principles to test failover mechanisms.
 
 ---
 
 ### 🔍 [IntelliSearch - AI-Powered Semantic Search Engine (Flipkart GRiD 7.0 Finalist)](https://github.com/ziyadhussain23/Flipkart-Grid-7.0)
 *August 2025*
 
-Distinguished as a **National Finalist (Top 48 out of 1.8 Lakh+)** at Flipkart GRiD 7.0 for architecting an enterprise-grade AI-powered e-commerce search engine that moves beyond keyword matching to truly understand user intent and product semantics.
+Distinguished as a **National Finalist (Top 48 out of 1.8 Lakh+)** at Flipkart GRiD 7.0 for architecting an enterprise-grade AI-powered e-commerce search engine that moves beyond keyword matching to t[...]
 
 **Tech Stack:** Python (FastAPI), Node.js (Express), React (Material-UI), Elasticsearch 8.14, Redis 6.x, MongoDB 5.x, ChromaDB, Docker, NumPy, Sentence Transformers
 
@@ -158,14 +145,14 @@ Distinguished as a **National Finalist (Top 48 out of 1.8 Lakh+)** at Flipkart G
 - Incremental reranking to balance accuracy and performance
 - Personalization without user login through session-based tracking
 
-**Impact:** Revolutionized e-commerce search experience by understanding user intent rather than just matching keywords, leading to improved user engagement, higher conversion rates, and reduced search abandonment.
+**Impact:** Revolutionized e-commerce search experience by understanding user intent rather than just matching keywords, leading to improved user engagement, higher conversion rates, and reduced searc[...]
 
 ---
 
 ### 🛒 [ShopSphere - Full-Stack E-Commerce Platform](https://github.com/ziyadhussain23/ShopSphere)
 *December 2024 - March 2025*
 
-A comprehensive, production-ready e-commerce platform featuring complete product lifecycle management, shopping cart functionality, secure authentication, and role-based access control. Built with enterprise-grade Spring Boot architecture and RESTful API design.
+A comprehensive, production-ready e-commerce platform featuring complete product lifecycle management, shopping cart functionality, secure authentication, and role-based access control. Built with ent[...]
 
 **Tech Stack:** Spring Boot 3, Spring Security 6, Spring Data JPA, Hibernate 6, MySQL 8.0, JWT (JJWT 0.12), BCrypt, Maven, Lombok, ModelMapper
 
@@ -227,7 +214,7 @@ A comprehensive, production-ready e-commerce platform featuring complete product
 - **API Documentation Ready:** Structure supports easy integration with Swagger/OpenAPI documentation
 - **Docker-Ready:** Containerization support for easy deployment and scaling
 
-**Impact:** Provides a robust foundation for e-commerce operations with enterprise-grade security, scalability to handle thousands of products, and a clean architecture enabling easy feature additions and maintenance.
+**Impact:** Provides a robust foundation for e-commerce operations with enterprise-grade security, scalability to handle thousands of products, and a clean architecture enabling easy feature additions[...]
 
 ---
 
@@ -363,18 +350,18 @@ A comprehensive DBMS built with Spring Boot for pet-related data handling, demon
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ziyadhussain23&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" alt="Ziyad's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ziyadhussain23&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" alt="Ziyad's[...]
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziyadhussain23&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyadhussain23&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=repo-name&cache_seconds=1800" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyadhussain23&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=repo-name&cache_seconds=1800" alt="Top [...]
 
 </div>
 
 ## 🔄 Development Journey
 
 ### 2025 Projects
-- **FuseHire Interview Platform** - Real-time collaboration with WebRTC
+- **FuseMeet Collaboration Platform** - Enterprise WebRTC & Cloud-Native Architecture
 - **IntelliSearch AI Engine** (Flipkart GRiD 7.0 National Finalist)
 - **ShopSphere E-Commerce Platform** - Full-stack online shopping solution
 - **Reinforcement Learning Projects** - Lunar Lander with Cross-Entropy Method
